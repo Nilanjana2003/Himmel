@@ -32,25 +32,23 @@ This project was created to:
    - `matplotlib`
    - `pandas`
    - `sklearn`
-3. Run the scripts:
-   ```bash
-   python ex.py      # Trains and evaluates the logistic regression model
-   python graph.py   # Generates relevant graphs
-````
-
-
-
-## 📊 Output
+3. Run the scripts.
+4. ## 📊 Output
 
 * Console output includes accuracy and classification results.
 * `graph.py` provides graphical plots to help understand feature distribution and correlation.
 
 
-
-## 📚 Notes
+5.## 📚 Notes
 
 * This is a **very simple prototype**, not intended for scientific conclusions.
 * Ideal for beginners to understand ML concepts in a fun context.
+
+
+
+
+
+
 
 
 
