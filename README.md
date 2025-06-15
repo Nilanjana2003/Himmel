@@ -39,7 +39,7 @@ This project was created to:
 * `graph.py` provides graphical plots to help understand feature distribution and correlation.
 
 
-5.## 📚 Notes
+## 📚 Notes
 
 * This is a **very simple prototype**, not intended for scientific conclusions.
 * Ideal for beginners to understand ML concepts in a fun context.
