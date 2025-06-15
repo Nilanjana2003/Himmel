@@ -13,7 +13,7 @@ This project was created to:
 - Explore feature relationships with basic visualizations.
 - Experiment with binary classification in an astrophysical context.
 
----
+
 
 
 ## ⚙️ Features
@@ -22,7 +22,7 @@ This project was created to:
 - Custom dataset preprocessing
 - Visualization of feature relationships
 
----
+
 
 ## 🚀 How to Run
 
@@ -38,20 +38,20 @@ This project was created to:
    python graph.py   # Generates relevant graphs
 ````
 
----
+
 
 ## 📊 Output
 
 * Console output includes accuracy and classification results.
 * `graph.py` provides graphical plots to help understand feature distribution and correlation.
 
----
+
 
 ## 📚 Notes
 
 * This is a **very simple prototype**, not intended for scientific conclusions.
 * Ideal for beginners to understand ML concepts in a fun context.
 
----
+
 
 
